@@ -3,7 +3,7 @@
 
 This component is written for esphome in order to comunicate via KNX TP.
 
-This is based on [KnxTpUart](https://github.com/majuss/KnxTpUart) library and modified for compiling for ESP32/ESP8266 according with esphome coding style.
+This is based on [KnxTpUart](https://github.com/majuss/KnxTpUart) library and modified for compiling on ESP32/ESP8266 according with esphome coding style.
 
 
 Usage example :
